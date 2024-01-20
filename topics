@@ -27,7 +27,6 @@ Topics
     - cut scene/screen (pause main video input, goes to a dynamic image to keep you all entertained)
     - after migrating to rpi k8s cluster:
       - implement logic/plugin for cutting to another scene when pc crashes/reboots
-    -/- disable screen preview when booting obs
   - discord
     - nightbot for discord link in twitch and youtube
   - music
