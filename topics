@@ -1,0 +1,128 @@
+Topics
+  (break things but not completely)
+
+1. Tinkering:
+  - linux kernel
+  - ai
+    - agents
+      - (have some autonomus factories doing research on topics)
+      - have it write toy games
+  - 3d printing
+    - 3d modeling
+    - finding other people's 3d object files
+    - install prototype camera on 3d printer
+      - more cameras for more angles?
+  - gitlabs
+
+2. Operations:
+  - host this list for public access
+    - github
+  - fix pacman (missing extra repo)
+  - qutebrowser
+    - investigate and solve crashes
+  - community focused configs
+  - github
+    - create and push bits_for_bytes repo
+  - obs
+    -/- broadcast to more platforms simultaneously (twitch, kick)
+    - discord chat on screen?
+    - media source (music)
+    - cut scene/screen (pause main video input, goes to a dynamic image to keep you all entertained)
+    - after migrating to rpi k8s cluster:
+      - implement logic/plugin for cutting to another scene when pc crashes/reboots
+    -/- disable screen preview when booting obs
+  - discord
+    - nightbot for discord link in twtich and youtube
+  - music
+    - integrate royalty-free -- or -- community created -- or -- my own background music for the stream
+
+3. Off Topics:
+  - gaming
+    - rimworld (install and tinker on bash script)
+  - community
+    - afterhours (community driven session)
+
+4. Projects:
+  - stream improvements
+    - migrate obs to pi k8s cluster
+    - discord notification bot
+    - conky script for:
+      - stream health (querying Youtube for proof of life)
+      - indication that there's activity in my discord channel (@here/@me/keyword)
+  - kodi/plex (or newer alterantive) on pi
+    - so I can stream live sports (confirm it's legal)
+  - homepage
+    -/- recon tabby cats
+    - take inspiration from tabby cats -- dynamic image somewhere on screen
+    - duckduckgo search bar / with mistral
+  - local webapp music player
+    - depends on Operations:music
+    - try 'aabiji/muse' (github) first
+    - investigate if a webapp can import -- or -- source -- or -- inherit an electron frontend
+      - check react-native if electron is a bust
+
+5. Deep Dives:
+  - kubernetes
+    - arm pi cluster
+      - jupiter notebook
+      - homepage hosted on pi cluster
+  - ai
+    - mistral
+    - agents
+      - (have some autonomus factories doing research on topics)
+      - have it write toy games
+  - linux
+    - gentoo
+  - emacs
+
+6. Config:
+  - neovim
+    - enable functionality for minizing sections within <this> "topics" file
+      - this should work in json files too
+    - disable temp plugin status window (displays on launch)
+    - plugins
+  - i3
+    - i3bar
+  - starship
+  - kitty
+  - NuShell
+    - threads
+    - do I even continue to use nushell
+    - look into more plugins
+  - qutebrowser
+    - develop or find a plugin for opening forward links in a new tab
+      - configure to not follow (stay on current tab)
+    - update homepage to custom locally hosted homepage
+
+7. Learning:
+  - books
+    - work through books
+    - is it going to be an office hours?
+    - spreadsheet for textbooks and status
+    - titles:
+      - Understanding and Using C Pointers
+      - black hat go
+      - numerical reciples in c
+  - guides
+    - julia macroeconomics
+
+8. Ventures:
+  - surveilance:
+    - security cameras on embedded devices (PIR sensors and risk-v (milk-v) and esp32)
+    - wireless (estate wifi kits)
+    - mobile app
+      - aggregates images and videos
+      - capability of accessing cameras securely outside of camera network 
+    - remote monitoring capabilities
+  - CRM:
+    - correlate customer:
+      - camera count and location
+      - camera software version (per camera)
+      - camera serials
+        - loaner serial mapped broken serial
+  - Billing
+    - killbill alternative (self developed?)
+
+9. Tools/Apps:
+  - making some ui electron (or other) based tool
+  - contribute back to projects
