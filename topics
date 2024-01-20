@@ -15,9 +15,6 @@ Topics
   - gitlabs
 
 2. Operations:
-  - host this list for public access
-    - github
-  - fix pacman (missing extra repo)
   - qutebrowser
     - investigate and solve crashes
   - community focused configs
@@ -32,7 +29,7 @@ Topics
       - implement logic/plugin for cutting to another scene when pc crashes/reboots
     -/- disable screen preview when booting obs
   - discord
-    - nightbot for discord link in twtich and youtube
+    - nightbot for discord link in twitch and youtube
   - music
     - integrate royalty-free -- or -- community created -- or -- my own background music for the stream
 
