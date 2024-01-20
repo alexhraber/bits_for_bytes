@@ -91,7 +91,9 @@ Topics
       - configure to not follow (stay on current tab)
     - update homepage to custom locally hosted homepage
 
-7. Learning:
+7. Exploration:
+  - guides
+    - julia macroeconomics
   - books
     - work through books
     - is it going to be an office hours?
@@ -100,8 +102,6 @@ Topics
       - Understanding and Using C Pointers
       - black hat go
       - numerical reciples in c
-  - guides
-    - julia macroeconomics
 
 8. Ventures:
   - surveilance:
@@ -111,15 +111,16 @@ Topics
       - aggregates images and videos
       - capability of accessing cameras securely outside of camera network 
     - remote monitoring capabilities
-  - CRM:
-    - correlate customer:
-      - camera count and location
-      - camera software version (per camera)
-      - camera serials
-        - loaner serial mapped broken serial
-  - Billing
-    - killbill alternative (self developed?)
+  - Software Projects:
+    - CRM:
+      - correlate customer:
+        - camera count and location
+        - camera software version (per camera)
+        - camera serials
+          - loaner serial mapped broken serial
+    - Billing
+      - killbill alternative (self developed?)
 
-9. Tools/Apps:
+9. Tools/Apps/Automation:
   - making some ui electron (or other) based tool
   - contribute back to projects
