@@ -43,6 +43,7 @@ Topics
     - afterhours (community driven session)
 
 4. Projects:
+  - write an agent cluster (that doesn't call home to chinese databases)
   - stream improvements
     - migrate obs to pi k8s cluster
     - discord notification bot
@@ -77,6 +78,7 @@ Topics
     - agents
       - (have some autonomus factories doing research on topics)
       - have it write toy games
+      -
   - linux
     - gentoo
   - blockchain

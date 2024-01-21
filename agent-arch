@@ -1,0 +1,8 @@
+1. create directory with multiple "roles"
+2. each role is called as a object mapped to an openAI api call
+3. any response from the openAI api call is fed back as a conversation item
+4. conversation items are used as input to openAI with target role assumed
+5. continue playing hot potatoe with replies from openAI until task is achieved.
+6. each role is assigned duties which when combined and fulfilled, achieve the desired outcome.
+7. add a pixelart UI
+8. (if Xinese) - call china database (scraping openAI)
