@@ -43,7 +43,13 @@ Topics
     - afterhours (community driven session)
 
 4. Projects:
-  - write an agent cluster (that doesn't call home to chinese databases)
+  - write an agent cluster
+    - written in go to take advantage of goroutines 
+      - each role can have multiple tasks assigned and can focus on 1 task at a time
+      - each role can simulaneously pause task reply to another role (unblocked other role)
+        - escalations (from junior to senior in org chart) will be handled immediately, or escalated
+    - map to mistral 7b for chat api calls
+      - host mistral 7b locally
   - stream improvements
     - migrate obs to pi k8s cluster
     - discord notification bot
