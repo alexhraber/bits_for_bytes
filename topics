@@ -30,8 +30,9 @@ Topics
     - cut scene/screen (pause main video input, goes to a dynamic image to keep you all entertained)
     - after migrating to rpi k8s cluster:
       - implement logic/plugin for cutting to another scene when pc crashes/reboots
-  - discord
-    - nightbot for discord link in twitch and youtube
+  - chatbot/discord
+    - nightbot posting community discord link in twitch and youtube stream chat
+      - posts every 15 minutes
   - music
     - integrate royalty-free -- or -- community created -- or -- my own background music for the stream
 
@@ -80,7 +81,7 @@ Topics
     - gentoo
   - emacs
 
-6. Config:
+6. Ricing:
   - neovim
     - enable functionality for minizing sections within <this> "topics" file
       - this should work in json files too
