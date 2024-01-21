@@ -50,6 +50,10 @@ Topics
         - escalations (from junior to senior in org chart) will be handled immediately, or escalated
     - map to mistral 7b for chat api calls
       - host mistral 7b locally
+    - purposes:
+      - team of lawyers / law office
+      - team of engineers / software development agency
+      - ...
   - stream improvements
     - migrate obs to pi k8s cluster
     - discord notification bot
