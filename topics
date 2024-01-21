@@ -78,7 +78,9 @@ Topics
     - disable temp plugin status window (displays on launch)
     - plugins
   - i3
+    - screenshots
     - i3bar
+      - take inspiration from OSX SketchyBar (github)
   - starship
   - kitty
   - NuShell
