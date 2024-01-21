@@ -7,6 +7,9 @@ Topics
     - agents
       - (have some autonomus factories doing research on topics)
       - have it write toy games
+  - gdb
+    - binary disassembly (using ghira?)
+    - buffer overflows and other security exploits (locally)
   - 3d printing
     - 3d modeling
     - finding other people's 3d object files
@@ -51,6 +54,10 @@ Topics
     -/- recon tabby cats
     - take inspiration from tabby cats -- dynamic image somewhere on screen
     - duckduckgo search bar / with mistral
+  - k8s
+    - arm pi cluster
+      - jupiter notebook
+      - homepage hosted on pi cluster
   - local webapp music player
     - depends on Operations:music
     - try 'aabiji/muse' (github) first
@@ -58,10 +65,12 @@ Topics
       - check react-native if electron is a bust
 
 5. Deep Dives:
+  - ray tracing
+    - https://raytracing.github.io
   - kubernetes
-    - arm pi cluster
-      - jupiter notebook
-      - homepage hosted on pi cluster
+    - raft
+    - service mesh (istio, linkderd, ...)
+    - traeffic (network packets)
   - ai
     - mistral
     - agents
